@@ -12,7 +12,7 @@ private static calc calculator;
 	
 	
 	public void testadd() {
-		assertEquals(10,calculator.add(7, 3));
+		assertEquals(10,calculator.add(5, 5));
 	}
 	
 }
